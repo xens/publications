@@ -3,9 +3,9 @@
 This repository contains most of the things that I've publicly released (blog-posts, conferences, talks, ...).
 
 
-### 2020.09.29 - Attacking the software supply chain
+### 2020.09.29 - Attacking The Software Supply Chain
 
-(Virtual) talk that I gave around Software Supply Chain security. There was also a live demo that is not part of these slides describing how a malicious actor could easily compromise a software supply chain to distribute malwares.
+(Virtual) talk that I gave around Software Supply Chain security. There was also a live demo that is not part of these slides describing how a malicious actor could easily compromise a software supply chain to distribute malwares and backdoors .
 
 * [slides](files/2020.09.29.SSDLC_research_bytes.pdf)
 
@@ -24,14 +24,14 @@ Blog post I co-wrote with my ex colleague [Bojan Zelic](https://github.com/Bojan
 * [slides](files/2020.06.16.CSA-defect-management.pdf)
 
 
-### 2019.03.26 - Network automation
+### 2019.03.26 - Network Automation
 
 Meetup in Lausanne (CH) where I gave a talk about Network automation.
 
 * [slides](files/2019.03.21_romain_aviolat_talk_meetup_lausanne.pdf)
 
 
-### 2018.10.10 - Network automation
+### 2018.10.10 - Network Automation
 
 Meetup in Zurich (CH) where I gave a talk about Network automation.
 
@@ -84,7 +84,7 @@ Blog post on how to setup software-RAID + Crypto on OpeBSD 5.3 / 5.4
 * [Blog post](https://research.kudelskisecurity.com/2013/09/19/softraid-and-crypto-for-openbsd-5-3)
 
 
-### 2013.05.29 - LaCIE Ruggedsafe under GNU / Linux
+### 2013.05.29 - LaCIE Ruggedsafe under GNU/Linux
 
 Blog post on how to use the external USB-drive LaCIE under Linux
 
