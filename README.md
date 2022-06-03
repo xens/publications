@@ -9,6 +9,12 @@ Blog-post I co-wrote with Cloudflare around a tool we've developed at Kudelski-S
 * [Cloudflare's Blog post](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
 * [Kudelski-Security's Blog post](https://research.kudelskisecurity.com/2021/12/14/zero-trust-access-to-kubernetes/)
 
+## 2021.11.18 - Dependency Management For Fun and Profit
+
+(Virtual) talk that I gave around Dependency Management / SSDLC
+
+* [slides](files/2021.11.18-Dependency_management_meetup.pdf)
+
 ## 2020.09.29 - Attacking The Software Supply Chain
 
 (Virtual) talk that I gave around Software Supply Chain security. There was also a live demo that is not part of these slides describing how a malicious actor could easily compromise a software supply chain to distribute malwares and backdoors .
