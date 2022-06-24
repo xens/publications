@@ -2,6 +2,12 @@
 
 This repository contains most of the things that I've publicly released (blog-posts, conferences, talks, ...).
 
+## 2022.06.22 - Securing containers for fun and profit
+
+(Virtual) talk I gave around Container Security.
+
+* [slides](files/2022.06.22-Securing_containers_final.pdf)
+
 ## 2021.12.08 - Zero-Trust access to Kubernetes
 
 Blog-post I co-wrote with Cloudflare around a tool we've developed at Kudelski-Security to protect our Kubernetes clusters admin APIs leveraging Cloudflare Tunnels product.
@@ -11,13 +17,13 @@ Blog-post I co-wrote with Cloudflare around a tool we've developed at Kudelski-S
 
 ## 2021.11.18 - Dependency Management For Fun and Profit
 
-(Virtual) talk that I gave around Dependency Management / SSDLC
+(Virtual) talk that I gave around Dependency Management / SSDLC.
 
 * [slides](files/2021.11.18-Dependency_management_meetup.pdf)
 
 ## 2020.09.29 - Attacking The Software Supply Chain
 
-(Virtual) talk that I gave around Software Supply Chain security. There was also a live demo that is not part of these slides describing how a malicious actor could easily compromise a software supply chain to distribute malwares and backdoors .
+(Virtual) talk that I gave around Software Supply Chain security. There was also a live demo that is not part of these slides describing how a malicious actor could easily compromise a software supply chain to distribute malwares and backdoors.
 
 * [slides](files/2020.09.29.SSDLC_research_bytes.pdf)
 
@@ -76,18 +82,18 @@ Talk that I gave at SwiNOG #29, about how I tweaked / hacked Arista hardware to 
 
 ## 2014.01.20 - First Steps With Arista Networks
 
-Blog post I wrote after playing one month with some network hardware from Arista-Networks
+Blog post I wrote after playing one month with some network hardware from Arista-Networks.
 
 * [Blog post](https://research.kudelskisecurity.com/2014/01/20/first-steps-with-arista-networks)
 
 ## 2013.09.09 - Softraid and Crypto for OpenBSD 5.3 / 5.4
 
-Blog post on how to setup software-RAID + Crypto on OpeBSD 5.3 / 5.4
+Blog post on how to setup software-RAID + Crypto on OpeBSD 5.3 / 5.4.
 
 * [Blog post](https://research.kudelskisecurity.com/2013/09/19/softraid-and-crypto-for-openbsd-5-3)
 
 ## 2013.05.29 - LaCIE Ruggedsafe under GNU/Linux
 
-Blog post on how to use the external USB-drive LaCIE under Linux
+Blog post on how to use the external USB-drive LaCIE under Linux.
 
 * [Blog post](https://research.kudelskisecurity.com/2013/05/29/lacie-ruggedsafe-under-gnulinux)
