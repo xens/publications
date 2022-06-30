@@ -2,6 +2,13 @@
 
 This repository contains most of the things that I've publicly released (blog-posts, conferences, talks, ...).
 
+
+## 2022.06.30 - Azure Compliance-as-Code unit-testing with Golang
+
+Blog-post I wrote on Kudelski Security's research blog around Compliance-as-Code unit-testing with Golang
+
+* [Blog post](https://research.kudelskisecurity.com/2022/06/30/azure-compliance-as-code-unit-testing-with-golang)
+
 ## 2022.06.22 - Securing containers for fun and profit
 
 (Virtual) talk I gave around Container Security.
