@@ -2,6 +2,13 @@
 
 This repository contains most of the things that I've publicly released (blog-posts, conferences, talks, ...).
 
+## 2023.11.02 - BlackAlps 2023 - YOUSHALLNOTPASS! Hardening CI/CD Pipelines on Mission Critical Environments
+
+Talk I gave at [BlackAlps 2023](https://www.blackalps.ch) around CI/CD pipelines threats and a tool that I've developed to mitigate them.
+
+* [Slides](files/2023.11.02-BlackAlps2023_youshallnotpass.pdf)
+* [Blog post](https://research.kudelskisecurity.com/2023/11/01/youshallnotpass-hardening-ci-cd-pipelines-on-mission-critical-environments)
+
 
 ## 2022.06.30 - Azure Compliance-as-Code unit-testing with Golang
 
