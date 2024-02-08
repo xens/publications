@@ -2,19 +2,29 @@
 
 This repository contains most of the things that I've publicly released (blog-posts, conferences, talks, ...).
 
+
+## 2024.01.19 - Firewalling Large Language Models with Llama Guard
+
+Blog post aroung LLM security / Llama I wrote on Kudelski Security's ModernCISO blog.
+
+* [Blog post](https://modernciso.com/2024/01/19/firewalling-large-language-models-with-llama-guard)
+* [Blog post backup](files/2024.01.19-firewalling_large_language_models_with_llama_guard.pdf)
+
 ## 2023.11.02 - BlackAlps 2023 - YOUSHALLNOTPASS! Hardening CI/CD Pipelines on Mission Critical Environments
 
 Talk I gave at [BlackAlps 2023](https://www.blackalps.ch) around CI/CD pipelines threats and a tool that I've developed to mitigate them.
 
 * [Slides](files/2023.11.02-BlackAlps2023_youshallnotpass.pdf)
 * [Blog post](https://research.kudelskisecurity.com/2023/11/01/youshallnotpass-hardening-ci-cd-pipelines-on-mission-critical-environments)
-
+* [Blog post backup](files/2023.11.02-You_shall_not_pass_hardening_cicd_pipelines_on_mission_critical_environments.pdf)
 
 ## 2022.06.30 - Azure Compliance-as-Code unit-testing with Golang
 
 Blog-post I wrote on Kudelski Security's research blog around Compliance-as-Code unit-testing with Golang
 
 * [Blog post](https://research.kudelskisecurity.com/2022/06/30/azure-compliance-as-code-unit-testing-with-golang)
+* [Blog post backup](files/2022.06.30-Azure_compliance_as_code_unit_testing_with_golang.pdf)
+
 
 ## 2022.06.22 - Securing containers for fun and profit
 
@@ -46,6 +56,7 @@ Blog-post I co-wrote with Cloudflare around a tool we've developed at Kudelski-S
 Blog post I co-wrote with my ex colleague [Bojan Zelic](https://github.com/BojanZelic), around Zero-Trust Network Architectures and the custom implementation that we did around HA-Proxy and a custom Lua plugin to parse JWT tokens and do AuthN + AuthZ at the edge.
 
 * [Blog post](https://research.kudelskisecurity.com/2020/08/04/first-steps-towards-a-zero-trust-architecture)
+* [Blog post backup](files/2020.08.04-First_steps_towards_a_zero_trust_architecture.pdf)
 
 ## 2020.06.16 - CSA - Defect Management
 
@@ -85,6 +96,7 @@ Talk that I gave during [Ansiblefest 2017](https://www.ansible.com/resources/vid
 Small Blog post I wrote around SSH tunnelling.
 
 * [Blog post](https://research.kudelskisecurity.com/2015/07/31/openssh-jump-host-and-file-transfer/)
+* [Blog post backup](files/2015.07.31-OpenSSH_jumphost_and_file_transfer.pdf)
 
 ## 2015.05.11 - SwiNOG #29 - Hacking Arista Appliances For Fun And Profit
 
@@ -92,6 +104,7 @@ Talk that I gave at SwiNOG #29, about how I tweaked / hacked Arista hardware to 
 
 * [slides](files/08_Romain_Avoilat_Hacking_Arista_applicances_for_fun_and_profit.pdf)
 * [Blog post](https://research.kudelskisecurity.com/2015/10/01/hacking-arista-appliances-for-fun-and-profit)
+* [Blog post backup](files/2015.05.11-Swinog_29_hacking_arista_appliances_for_fun_and_profit.pdf)
 * [SwiNOG event](https://www.swinog.ch/meetings/swinog29)
 
 ## 2014.01.20 - First Steps With Arista Networks
@@ -99,15 +112,18 @@ Talk that I gave at SwiNOG #29, about how I tweaked / hacked Arista hardware to 
 Blog post I wrote after playing one month with some network hardware from Arista-Networks.
 
 * [Blog post](https://research.kudelskisecurity.com/2014/01/20/first-steps-with-arista-networks)
+* [Blog post backup](files/2014.01.20-First_steps_with_arista_networks.pdf)
 
 ## 2013.09.09 - Softraid and Crypto for OpenBSD 5.3 / 5.4
 
 Blog post on how to setup software-RAID + Crypto on OpeBSD 5.3 / 5.4.
 
 * [Blog post](https://research.kudelskisecurity.com/2013/09/19/softraid-and-crypto-for-openbsd-5-3)
+* [Blog post backup](files/2013.09.09-Softraid_and_crypto_openbsd.pdf)
 
 ## 2013.05.29 - LaCIE Ruggedsafe under GNU/Linux
 
 Blog post on how to use the external USB-drive LaCIE under Linux.
 
 * [Blog post](https://research.kudelskisecurity.com/2013/05/29/lacie-ruggedsafe-under-gnulinux)
+* [Blog post backup](files/2013.05.29-Lacie_ruggedsafe_under_gnu_linux.pdf)
